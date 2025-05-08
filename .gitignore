@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+
+# Optional: ignore environment files
+.env
+.env.*
+
+# Optional: ignore build artifacts (uncomment if you have these)
+# dist/
+# build/ 
